@@ -1,7 +1,4 @@
 {
-  {"id": 1,
-      "title": "Post 1"},
-  "profile": {
-    "name": "typicode"
-  }
+  "id": 1,
+  "title": "Success"
 }
