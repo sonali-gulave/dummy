@@ -2,7 +2,7 @@
     "data": [
         {
             "id": 1,
-            "message": "Status-200"
+            "message": "success"
         }
     ]
 }
